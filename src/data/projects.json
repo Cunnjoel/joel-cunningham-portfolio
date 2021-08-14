@@ -1,37 +1,23 @@
 [
     {
         "id": 1,
-        "name": "Password Generator",
-        "link": "https://cunnjoel.github.io/password-generator-homework/",
-        "repo": "https://github.com/Cunnjoel/password-generator-homework.git",
+        "name": "Book-Search",
+        "link": "https://morning-dawn-11954.herokuapp.com/",
+        "repo": "https://github.com/Cunnjoel/book-search-homework.git",
         "image": 0
     },
     {
         "id": 2,
-        "name": "Work Day Planner",
-        "link": "https://cunnjoel.github.io/work-day-scheduler/",
-        "repo": "https://github.com/Cunnjoel/work-day-scheduler.git",
+        "name": "HealthEat",
+        "link": "https://peaceful-thicket-73252.herokuapp.com/",
+        "repo": "https://github.com/davidboerm/HealthEat.git",
         "image": 1
     },
     {
         "id": 3,
-        "name": "Weather Dashboard",
-        "link": "https://cunnjoel.github.io/weather-dashboard-homework/",
-        "repo": "https://github.com/Cunnjoel/weather-dashboard-homework.git",
-        "image": 2
-    },
-    {
-        "id": 4,
-        "name": "Sports Event Search",
-        "link": "https://nateghsc09.github.io/Project-1-Sports-Event-Search/",
-        "repo": "https://github.com/nateghsc09/Project-1-Sports-Event-Search.git",
-        "image": 3
-    },
-    {
-        "id": 5,
         "name": "Bubbblr Brainstorming app",
         "link": "https://bubbblr.herokuapp.com/login",
         "repo": "https://github.com/davidboerm/bubbblr.git",
-        "image": 4
+        "image": 2
     }
 ]

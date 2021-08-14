@@ -15,7 +15,7 @@ function Contact() {
                     GitHub:<a href="https://github.com/Cunnjoel">Cunnjoel</a>
                 </li>
                 <li>
-                    Resume:<a href="https://docs.google.com/document/d/1KSjvVYYPeRxu5OjY9fQqsRZ9CS5DmWCxHEFSwGvfFlc/edit?usp=sharing">My Resume</a>
+                    Resume:<a href="https://docs.google.com/document/d/14OAQ4Pak6buoydRF46uG9zBkMnSg3XnQ8TFDK9wSn1c/edit?usp=sharing">My Resume</a>
                 </li>
             </ul>
         </div>
