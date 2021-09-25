@@ -15,7 +15,16 @@ class App extends Component {
     projects
   };
  
+  componentDidMount() {
+    window.addEventListener('resize', () => {
+        this.setState({
+            isMobile: window.innerWidth < 1200
+        });
+    }, false);
+}
+
 render() {
+  const className = this.state.isMobile ? 'mobile' : '';
   return (
     <Router>
       <div>

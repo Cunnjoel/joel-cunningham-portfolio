@@ -9,5 +9,9 @@ body{
 
 .wrap {
     display: flex;
-   
+}
+
+.small {
+    display: flex;
+    flex-wrap: wrap;
 }
