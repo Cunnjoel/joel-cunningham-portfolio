@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/joel-cuningham-portfolio/static/css/main.3a60d817.chunk.css",
-    "main.js": "/joel-cuningham-portfolio/static/js/main.46759dfd.chunk.js",
-    "main.js.map": "/joel-cuningham-portfolio/static/js/main.46759dfd.chunk.js.map",
-    "runtime-main.js": "/joel-cuningham-portfolio/static/js/runtime-main.b138ca70.js",
-    "runtime-main.js.map": "/joel-cuningham-portfolio/static/js/runtime-main.b138ca70.js.map",
-    "static/js/2.88c59657.chunk.js": "/joel-cuningham-portfolio/static/js/2.88c59657.chunk.js",
-    "static/js/2.88c59657.chunk.js.map": "/joel-cuningham-portfolio/static/js/2.88c59657.chunk.js.map",
-    "static/js/3.9791c609.chunk.js": "/joel-cuningham-portfolio/static/js/3.9791c609.chunk.js",
-    "static/js/3.9791c609.chunk.js.map": "/joel-cuningham-portfolio/static/js/3.9791c609.chunk.js.map",
-    "index.html": "/joel-cuningham-portfolio/index.html",
-    "static/css/main.3a60d817.chunk.css.map": "/joel-cuningham-portfolio/static/css/main.3a60d817.chunk.css.map",
-    "static/js/2.88c59657.chunk.js.LICENSE.txt": "/joel-cuningham-portfolio/static/js/2.88c59657.chunk.js.LICENSE.txt",
-    "static/media/HealthEat.c7e03707.png": "/joel-cuningham-portfolio/static/media/HealthEat.c7e03707.png",
-    "static/media/book-search.c9086ea6.png": "/joel-cuningham-portfolio/static/media/book-search.c9086ea6.png",
-    "static/media/bubbblr.364aa3cf.png": "/joel-cuningham-portfolio/static/media/bubbblr.364aa3cf.png",
-    "static/media/self.a7c2a606.jpg": "/joel-cuningham-portfolio/static/media/self.a7c2a606.jpg"
+    "main.css": "/joel-cunningham-portfolio/static/css/main.85d5baf4.chunk.css",
+    "main.js": "/joel-cunningham-portfolio/static/js/main.0e5a5b37.chunk.js",
+    "main.js.map": "/joel-cunningham-portfolio/static/js/main.0e5a5b37.chunk.js.map",
+    "runtime-main.js": "/joel-cunningham-portfolio/static/js/runtime-main.5fdfe636.js",
+    "runtime-main.js.map": "/joel-cunningham-portfolio/static/js/runtime-main.5fdfe636.js.map",
+    "static/js/2.88c59657.chunk.js": "/joel-cunningham-portfolio/static/js/2.88c59657.chunk.js",
+    "static/js/2.88c59657.chunk.js.map": "/joel-cunningham-portfolio/static/js/2.88c59657.chunk.js.map",
+    "static/js/3.9791c609.chunk.js": "/joel-cunningham-portfolio/static/js/3.9791c609.chunk.js",
+    "static/js/3.9791c609.chunk.js.map": "/joel-cunningham-portfolio/static/js/3.9791c609.chunk.js.map",
+    "index.html": "/joel-cunningham-portfolio/index.html",
+    "static/css/main.85d5baf4.chunk.css.map": "/joel-cunningham-portfolio/static/css/main.85d5baf4.chunk.css.map",
+    "static/js/2.88c59657.chunk.js.LICENSE.txt": "/joel-cunningham-portfolio/static/js/2.88c59657.chunk.js.LICENSE.txt",
+    "static/media/HealthEat.c7e03707.png": "/joel-cunningham-portfolio/static/media/HealthEat.c7e03707.png",
+    "static/media/book-search.c9086ea6.png": "/joel-cunningham-portfolio/static/media/book-search.c9086ea6.png",
+    "static/media/bubbblr.364aa3cf.png": "/joel-cunningham-portfolio/static/media/bubbblr.364aa3cf.png",
+    "static/media/self.a7c2a606.jpg": "/joel-cunningham-portfolio/static/media/self.a7c2a606.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b138ca70.js",
+    "static/js/runtime-main.5fdfe636.js",
     "static/js/2.88c59657.chunk.js",
-    "static/css/main.3a60d817.chunk.css",
-    "static/js/main.46759dfd.chunk.js"
+    "static/css/main.85d5baf4.chunk.css",
+    "static/js/main.0e5a5b37.chunk.js"
   ]
 }
