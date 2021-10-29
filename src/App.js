@@ -38,6 +38,8 @@ render() {
                 repo={project.repo}
                 link={project.link}
                 image={project.image}
+                desc={project.desc}
+                tech={project.tech}
               />
             ))
         }} />

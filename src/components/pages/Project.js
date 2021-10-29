@@ -19,6 +19,12 @@ function Project(props) {
       <div className="content">
         <ul>
           <li>
+            <p><strong>Description: </strong>{props.desc}</p>
+          </li>
+          <li>
+            <p><strong>Technologies: </strong>{props.tech}</p>
+          </li>
+          <li>
             <strong><a href={props.link}>{props.name}</a></strong>
           </li>
           <li>

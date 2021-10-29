@@ -4,20 +4,26 @@
         "name": "Book-Search",
         "link": "https://morning-dawn-11954.herokuapp.com/",
         "repo": "https://github.com/Cunnjoel/book-search-homework.git",
-        "image": 0
+        "image": 0,
+        "desc": "Application created using googlebook api. Uses MERN Stack application allows users to search books and save to a mongo database. Users can then access the database to view and purchase books if available.",
+        "tech": "Express, Mongoose, React-bootstrap, and Axios"
     },
     {
         "id": 2,
         "name": "HealthEat",
         "link": "https://peaceful-thicket-73252.herokuapp.com/",
         "repo": "https://github.com/davidboerm/HealthEat.git",
-        "image": 1
+        "image": 1,
+        "desc": "This is a full-stack MERN application intended to help people to plan healthy meals. Users can choose their dietary restrictions and the number of recipes desired.",
+        "tech": "React, Bootstrap, Material-UI, and Mongoose"
     },
     {
         "id": 3,
         "name": "Bubbblr Brainstorming app",
         "link": "https://bubbblr.herokuapp.com/login",
         "repo": "https://github.com/davidboerm/bubbblr.git",
-        "image": 2
+        "image": 2,
+        "desc": "Bubbbr allows live chat that can be tagged and compiled to allow brainstorming projects more efficient.",
+        "tech": "Express, Socket.io, bcrypt, and Sequalize"
     }
 ]
